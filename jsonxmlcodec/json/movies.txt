@@ -1,0 +1,2214 @@
+{
+    "params": {
+        "cookies": {
+            "BCSI-CS-480ab1450c6fa1d9": "2",
+            "BCSI-CS-9cefe7cf46b67d46": "2",
+            "stream_sid": ""
+        },
+        "arguments": {
+            "client": ["mts_epk|0.1-huawei"]
+        }
+    },
+    "api_version": "4.22.67",
+    "result": {
+        "total": 10,
+        "count": 10,
+        "items": [{
+                "content_type": "movie",
+                "content_id": 3380768,
+                "primary_genres": [41],
+                "studios": [],
+                "is_russian": false,
+                "publication_unixtime": 1377201600,
+                "mpaa_rating": "PG-13",
+                "age_rating": 18,
+                "tagline": "",
+                "release_date": "2012-05-10",
+                "rightholder_name": [{
+                        "lang": "rus",
+                        "text": "Universal"
+                    }
+                ],
+                "is_perfect": false,
+                "tvod_rights_start_date": "2020-03-01T00:00:01+03:00",
+                "tvod_rights_expiration_date": "2021-02-28T23:59:59+03:00",
+                "svod_rights_start_date": null,
+                "svod_rights_expiration_date": null,
+                "est_rights_start_date": "2020-03-01T00:00:01+03:00",
+                "est_rights_expiration_date": "2021-02-28T23:59:59+03:00",
+                "fvod_rights_start_date": null,
+                "fvod_rights_expiration_date": null,
+                "rating": 7.05,
+                "description": "В парижском пригороде Монфермей, воспетом в знаменитом романе Виктора Гюго как место полицейского произвола и обиталище отбросов общества, за два века ничего не изменилось. Новичок Стефан по прозвищу Пенто заступает на службу в местный отдел полиции. С пушками в кобуре и дубинками в руках его новые соратники творят на улицах района то, что они называют справедливостью, пока однажды не попадают на камеру дрона одного парнишки.",
+                "image_objs": [{
+                        "type": "vposter",
+                        "mime": "image\/jpeg",
+                        "lang": null,
+                        "width": 600,
+                        "height": 840,
+                        "url": "http:\/\/media.omlet.ru\/media\/img\/movies\/vposter\/plain\/3380768\/600_840.jpg"
+                    }, {
+                        "type": "hposter",
+                        "mime": null,
+                        "lang": null,
+                        "width": null,
+                        "height": null,
+                        "url": "http:\/\/media.omlet.ru\/\/media\/img\/movies\/hposter\/plain\/3380768\/1920_1080.jpg"
+                    }
+                ],
+                "priority": 3,
+                "post_message": {
+                    "title": null,
+                    "body": null,
+                    "button_text": null,
+                    "button_link": null,
+                    "promoted_content": null
+                },
+                "is_promotion": true,
+                "is_novelty": false,
+                "is_soon": false,
+                "has_nfc": false,
+                "source_id": 1,
+                "cdn_type": null,
+                "in_cdn": false,
+                "presale_target_date": null,
+                "presale_start_date": null,
+                "title_en": "Otverzhennye",
+                "title_ru": "Отверженные",
+                "duration": 9079,
+                "duration_text": "2 часа 31 минута",
+                "tvod_window": 30,
+                "content_category": "library",
+                "description_en": "Deystvie razvivaetsya v nachale XIX stoletiya. Beglyy katorzhnik Zhan Val'zhan, prigovorennyy k tyuremnomu zaklyucheniyu, vynuzhden dolgie gody skryvat'sya ot zhestokogo pravosudiya. Inspektor parizhskoy policii Zhaver schitaet ego poimku delom vsey svoey zhizni. Posle smerti Fantiny — zhenschiny, za sud'bu kotoroy Zhan Val'zhan schital sebya v otvete, — edinstvennym blizkim emu chelovekom ostaetsya ee doch' Kozetta. Radi schast'ya devushki Zhan gotov na vse.",
+                "keywords_ru": "Франция, ограбление, бордель, поездка, мэр, французская революция, мюзикл, арест, армия, баррикада, восстание, свадьба, влюблённость, труп, условно-досрочное освобождение, осужденный, девушка, замаскированная под мальчика, 19 век",
+                "keywords_en": "france,robbery,brothel,trip,mayor,french revolution,musical,arrest,army,barricade,rebellion,wedding,falling in love,corpse,parole,convict,girl disguised as boy,19th century,",
+                "datetime_create": "2013-05-06T12:48:30+04:00",
+                "datetime_modify": "2020-06-26T16:33:56+03:00",
+                "votes": 1869,
+                "popularity": 0,
+                "backdrop_available": false,
+                "movie_url": null,
+                "trailer_url": null,
+                "packages_tvh": ["est_hd_249rub", "est_sd_199rub", "tvod_hd_149rub", "tvod_sd_99rub"],
+                "downloadable": ["est", "tvod"],
+                "master_objs": [{
+                        "id": 873015,
+                        "type": "main",
+                        "size": 28007141323,
+                        "mime": "video\/mp4",
+                        "location": "stream",
+                        "path": "\/srv\/storage0\/mf\/O\/Otverzhennye.3380768\/Otverzhennye_0.mp4",
+                        "url": null,
+                        "name": null,
+                        "description": null,
+                        "lang": "rus",
+                        "duration": 9079,
+                        "width": 1920,
+                        "height": 1080,
+                        "bitrate": 24677417,
+                        "content_resolution": null,
+                        "fps": 25,
+                        "is_hdr": null,
+                        "audio_type": "Stereo",
+                        "skipping_fragments": [],
+                        "is_preview": false,
+                        "preview_duration": null,
+                        "preview_start_time": null,
+                        "duration_text": "2 часа 31 минута",
+                        "format": "HD",
+                        "subtitles": []
+                    }
+                ],
+                "trailer_array": [],
+                "is_presale": false,
+                "datetime_publication": "2020-02-20T16:06:58+03:00",
+                "rightholder_content_id": null,
+                "playback_id": null,
+                "sound_tracks_description": [],
+                "external_ids": [{
+                        "source_id": 30,
+                        "value": "1256262"
+                    }, {
+                        "source_id": 31,
+                        "value": "tt1707386"
+                    }, {
+                        "source_id": 32,
+                        "value": "82695"
+                    }
+                ],
+                "movie_drm": null,
+                "price": {},
+                "trailer_available": false,
+                "file_data": {},
+                "year": "2012",
+                "countries": [{
+                        "name": "США"
+                    }, {
+                        "name": "Франция"
+                    }, {
+                        "name": "Великобритания"
+                    }
+                ],
+                "genres": [{
+                        "genre_id": 47,
+                        "title": "Военное",
+                        "type": null
+                    }, {
+                        "genre_id": 41,
+                        "title": "Драмы",
+                        "type": null
+                    }, {
+                        "genre_id": 46,
+                        "title": "Мелодрамы",
+                        "type": null
+                    }
+                ],
+                "actors": [{
+                        "id": 4466,
+                        "name": "Джули Эндрюс",
+                        "name_en": "Julie Andrews"
+                    }, {
+                        "id": 353442,
+                        "name": "Алексис Маненти",
+                        "name_en": null
+                    }, {
+                        "id": 353445,
+                        "name": "Аль-Хассан Ли",
+                        "name_en": null
+                    }, {
+                        "id": 353447,
+                        "name": "Альмами Кануте",
+                        "name_en": null
+                    }, {
+                        "id": 127165,
+                        "name": "Дамиен Боннар",
+                        "name_en": null
+                    }, {
+                        "id": 118648,
+                        "name": "Дженна Бойд",
+                        "name_en": "Jenna Boyd"
+                    }, {
+                        "id": 353443,
+                        "name": "Джибрил Зонга",
+                        "name_en": null
+                    }, {
+                        "id": 107651,
+                        "name": "Джина Бек",
+                        "name_en": "Gina Beck"
+                    }, {
+                        "id": 102225,
+                        "name": "Джулия Уорсли",
+                        "name_en": "Julia Worsley"
+                    }, {
+                        "id": 103916,
+                        "name": "Дэвид Робертс",
+                        "name_en": "David Roberts"
+                    }, {
+                        "id": 353444,
+                        "name": "Иса Перица",
+                        "name_en": null
+                    }, {
+                        "id": 353450,
+                        "name": "Лучиано Лопес",
+                        "name_en": null
+                    }, {
+                        "id": 112608,
+                        "name": "Марк Донован",
+                        "name_en": "Mark Donovan"
+                    }, {
+                        "id": 353448,
+                        "name": "Низар Бен Фатма",
+                        "name_en": null
+                    }, {
+                        "id": 128813,
+                        "name": "Николя Слоун",
+                        "name_en": "Nicola Sloane"
+                    }, {
+                        "id": 5971,
+                        "name": "Рассел Кроу",
+                        "name_en": "Russell Crowe"
+                    }, {
+                        "id": 116231,
+                        "name": "Ричард Бреммер",
+                        "name_en": "Richard Bremmer"
+                    }, {
+                        "id": 353449,
+                        "name": "Рэймонд Лопес",
+                        "name_en": null
+                    }, {
+                        "id": 107650,
+                        "name": "Саманта Баркс",
+                        "name_en": "Samantha Barks"
+                    }, {
+                        "id": 353446,
+                        "name": "Стив Тьеншо",
+                        "name_en": null
+                    }, {
+                        "id": 102713,
+                        "name": "Тони Рор",
+                        "name_en": "Tony Rohr"
+                    }, {
+                        "id": 2482,
+                        "name": "Хелена Бонем Картер",
+                        "name_en": "Helena Bonham Carter"
+                    }, {
+                        "id": 7081,
+                        "name": "Хью Джекман",
+                        "name_en": "Hugh Jackman"
+                    }, {
+                        "id": 4611,
+                        "name": "Энн Хэтэуэй",
+                        "name_en": "Anne Hathaway"
+                    }, {
+                        "id": 105141,
+                        "name": "Эшли Артус",
+                        "name_en": "Ashley Artus"
+                    }
+                ],
+                "directors": [{
+                        "id": 353451,
+                        "name": "Ладж Ли",
+                        "name_en": null
+                    }, {
+                        "id": 102390,
+                        "name": "Том Хупер",
+                        "name_en": "Tom Hooper"
+                    }
+                ],
+                "in_subscriptions": []
+            }, {
+                "content_type": "movie",
+                "content_id": 5585439,
+                "primary_genres": [52],
+                "studios": [663, 664],
+                "is_russian": false,
+                "publication_unixtime": 1377115200,
+                "mpaa_rating": "PG",
+                "age_rating": 0,
+                "tagline": "",
+                "release_date": "2010-06-15",
+                "rightholder_name": [{
+                        "lang": "rus",
+                        "text": "Universal"
+                    }
+                ],
+                "is_perfect": true,
+                "tvod_rights_start_date": "2020-03-01T00:00:01+03:00",
+                "tvod_rights_expiration_date": "2021-02-28T23:59:59+03:00",
+                "svod_rights_start_date": null,
+                "svod_rights_expiration_date": null,
+                "est_rights_start_date": "2020-03-01T00:00:01+03:00",
+                "est_rights_expiration_date": "2021-02-28T23:59:59+03:00",
+                "fvod_rights_start_date": null,
+                "fvod_rights_expiration_date": null,
+                "rating": 7.74,
+                "description": "Гадкий снаружи, но добрый внутри Грю намерен, тем не менее, закрепить за собой статус главного архизлодея в мире, для чего он решает выкрасть Луну при помощи созданной им армии миньонов. Дело осложняют конкуренты, вставляющие высокотехнические палки в колеса, и семейные обстоятельства в виде трех сироток, о которых Грю вынужден заботиться.",
+                "image_objs": [{
+                        "type": "vposter",
+                        "mime": "image\/jpeg",
+                        "lang": null,
+                        "width": 600,
+                        "height": 840,
+                        "url": "http:\/\/media.omlet.ru\/media\/img\/movies\/vposter\/plain\/5585439\/600_840.jpg"
+                    }, {
+                        "type": "hposter",
+                        "mime": null,
+                        "lang": null,
+                        "width": null,
+                        "height": null,
+                        "url": "http:\/\/media.omlet.ru\/\/media\/img\/movies\/hposter\/plain\/5585439\/1920_1080.jpg"
+                    }
+                ],
+                "priority": 3,
+                "post_message": {
+                    "title": null,
+                    "body": null,
+                    "button_text": null,
+                    "button_link": null,
+                    "promoted_content": null
+                },
+                "is_promotion": true,
+                "is_novelty": false,
+                "is_soon": false,
+                "has_nfc": false,
+                "source_id": 1,
+                "cdn_type": null,
+                "in_cdn": false,
+                "presale_target_date": null,
+                "presale_start_date": null,
+                "title_en": "DESPICABLE ME",
+                "title_ru": "Гадкий я",
+                "duration": 5681,
+                "duration_text": "1 час 34 минуты",
+                "tvod_window": 30,
+                "content_category": "library",
+                "description_en": "In a happy suburban neighborhood surrounded by white picket fences and flowering rose bushes sits a black house with a dead lawn.  Unbeknownst to the neighbors, hidden deep beneath this home is a vast secret hideout belonging to Gru, a dastardly villain who, along with the help of his many little minions, is planning the biggest heist in the history of the world: he's going to steal the moon! But his plans are foiled the day he encounters the immense will of three little orphaned girls who look at him and see something that no one else has ever seen: a potential Dad.  This smash hit, animated 3D adventure boasts a stellar all-star vocal cast that includes Steve Carell, Julie Andrews, Jason Segel, Russell Brand, Danny McBride and more! He's despicable. He's deplorable. He's delightful!",
+                "keywords_ru": "отношения родитель-ребенок, приемный отец, детский дом, мечта всей жизни, соперничество, воровство, балет, маленькая девочка, сирота, сорванец, интеллигентный, дети, злой доктор, сцена во время титров, миньоны, суперзлодей, 3d, гадкий,",
+                "keywords_en": "parent child relationship,adoptive father,orphanage,life's dream,rivalry,stealing,ballet,little girl,orphan,tomboy,intelligent,kids,evil doctor,duringcreditsstinger,minions,supervillain,3d,despicable,cattivissimo,",
+                "datetime_create": "2010-12-15T23:00:00+03:00",
+                "datetime_modify": "2020-06-26T16:33:56+03:00",
+                "votes": 157786,
+                "popularity": 0,
+                "backdrop_available": true,
+                "movie_url": null,
+                "trailer_url": null,
+                "packages_tvh": ["est_hd_249rub", "est_sd_199rub", "tvod_hd_149rub", "tvod_sd_99rub"],
+                "downloadable": ["est", "tvod"],
+                "master_objs": [{
+                        "id": 301575,
+                        "type": "main",
+                        "size": 17448133510,
+                        "mime": "video\/mp4",
+                        "location": "stream",
+                        "path": "\/srv\/storage0\/mf\/G\/Gadkij_ya.5585439\/Gadkij_ya_0.mp4",
+                        "url": null,
+                        "name": null,
+                        "description": null,
+                        "lang": "rus",
+                        "duration": 5681,
+                        "width": 1920,
+                        "height": 1080,
+                        "bitrate": 24571193,
+                        "content_resolution": null,
+                        "fps": 23,
+                        "is_hdr": null,
+                        "audio_type": "Stereo",
+                        "skipping_fragments": [],
+                        "is_preview": false,
+                        "preview_duration": null,
+                        "preview_start_time": null,
+                        "duration_text": "1 час 34 минуты",
+                        "format": "HD",
+                        "subtitles": []
+                    }
+                ],
+                "trailer_array": [],
+                "is_presale": false,
+                "datetime_publication": "2020-02-20T16:06:58+03:00",
+                "rightholder_content_id": null,
+                "playback_id": null,
+                "sound_tracks_description": [],
+                "external_ids": [{
+                        "source_id": 30,
+                        "value": "432724"
+                    }, {
+                        "source_id": 31,
+                        "value": "tt1323594"
+                    }, {
+                        "source_id": 32,
+                        "value": "20352"
+                    }
+                ],
+                "movie_drm": null,
+                "price": {},
+                "trailer_available": false,
+                "file_data": {},
+                "year": "2010",
+                "countries": [{
+                        "name": "США"
+                    }, {
+                        "name": "Франция"
+                    }
+                ],
+                "genres": [{
+                        "genre_id": 52,
+                        "title": "Для детей",
+                        "type": null
+                    }, {
+                        "genre_id": 42,
+                        "title": "Комедии",
+                        "type": null
+                    }, {
+                        "genre_id": 45,
+                        "title": "Семейное",
+                        "type": null
+                    }, {
+                        "genre_id": 60,
+                        "title": "Фэнтези",
+                        "type": null
+                    }
+                ],
+                "actors": [{
+                        "id": 4069,
+                        "name": "Стив Карелл",
+                        "name_en": "Steve Carell"
+                    }, {
+                        "id": 4413,
+                        "name": "Джейсон Сигел",
+                        "name_en": "Jason Segel"
+                    }, {
+                        "id": 102647,
+                        "name": "Расселл Брэнд",
+                        "name_en": null
+                    }, {
+                        "id": 4466,
+                        "name": "Джули Эндрюс",
+                        "name_en": "Julie Andrews"
+                    }, {
+                        "id": 1982,
+                        "name": "Уилл Арнетт",
+                        "name_en": "Will Arnett"
+                    }, {
+                        "id": 6341,
+                        "name": "Кристен Уиг",
+                        "name_en": "Kristen Wiig"
+                    }, {
+                        "id": 102648,
+                        "name": "Миранда Косгров",
+                        "name_en": null
+                    }, {
+                        "id": 102649,
+                        "name": "Дэна Гайер",
+                        "name_en": null
+                    }, {
+                        "id": 102650,
+                        "name": "Элси Фишер",
+                        "name_en": null
+                    }, {
+                        "id": 349345,
+                        "name": "Пьер Коффан",
+                        "name_en": null
+                    }, {
+                        "id": 102652,
+                        "name": "Крис Рено",
+                        "name_en": "Chris Renaud"
+                    }
+                ],
+                "directors": [{
+                        "id": 349345,
+                        "name": "Пьер Коффан",
+                        "name_en": null
+                    }, {
+                        "id": 102652,
+                        "name": "Крис Рено",
+                        "name_en": "Chris Renaud"
+                    }
+                ],
+                "in_subscriptions": []
+            }, {
+                "content_type": "movie",
+                "content_id": 5593113,
+                "primary_genres": [40],
+                "studios": [365, 673, 674],
+                "is_russian": false,
+                "publication_unixtime": 1292878800,
+                "mpaa_rating": "PG-13",
+                "age_rating": 12,
+                "tagline": "",
+                "release_date": "2005-06-15",
+                "rightholder_name": [{
+                        "lang": "rus",
+                        "text": "Universal"
+                    }
+                ],
+                "is_perfect": true,
+                "tvod_rights_start_date": "2020-03-01T00:00:01+03:00",
+                "tvod_rights_expiration_date": "2021-02-28T23:59:59+03:00",
+                "svod_rights_start_date": null,
+                "svod_rights_expiration_date": null,
+                "est_rights_start_date": "2020-03-01T00:00:01+03:00",
+                "est_rights_expiration_date": "2021-02-28T23:59:59+03:00",
+                "fvod_rights_start_date": null,
+                "fvod_rights_expiration_date": null,
+                "rating": 7.58,
+                "description": "В 1930-м году съемочная группа под предводительством режиссера-неудачника Карла Дэнхэма отправляется на загадочный Остров Черепа неподалеку от Суматры, чтобы изучать легенды о гигантской горилле по кличке Конг. По прибытии на место они обнаруживают, что Кинг Конг и правда существует.Горилла живет в самой чаще непроходимых джунглей, где помимо него, спрятанные от всего мира, обитают многие создания из доисторических времен. Исследователи оказываются между двух огней — с одной стороны Кинг Конг, а с другой — его враги динозавры…",
+                "image_objs": [{
+                        "type": "vposter",
+                        "mime": "image\/jpeg",
+                        "lang": null,
+                        "width": 600,
+                        "height": 840,
+                        "url": "http:\/\/media.omlet.ru\/media\/img\/movies\/vposter\/plain\/5593113\/600_840.jpg"
+                    }, {
+                        "type": "hposter",
+                        "mime": null,
+                        "lang": null,
+                        "width": null,
+                        "height": null,
+                        "url": "http:\/\/media.omlet.ru\/\/media\/img\/movies\/hposter\/plain\/5593113\/1920_1080.jpg"
+                    }
+                ],
+                "priority": 3,
+                "post_message": {
+                    "title": null,
+                    "body": null,
+                    "button_text": null,
+                    "button_link": null,
+                    "promoted_content": null
+                },
+                "is_promotion": true,
+                "is_novelty": false,
+                "is_soon": false,
+                "has_nfc": false,
+                "source_id": 1,
+                "cdn_type": null,
+                "in_cdn": false,
+                "presale_target_date": null,
+                "presale_start_date": null,
+                "title_en": "Kong",
+                "title_ru": "Кинг Конг",
+                "duration": 11237,
+                "duration_text": "3 часа 7 минут",
+                "tvod_window": 30,
+                "content_category": "library",
+                "description_en": "V 1930-m godu s'emochnaya gruppa pod predvoditel'stvom rezhissera-neudachnika Karla Denhema otpravlyaetsya na zagadochnyy Ostrov Cherepa nepodaleku ot Sumatry, chtoby izuchat' legendy o gigantskoy gorille po klichke Kong. Po pribytii na mesto oni obnaruzhivayut, chto King Kong i pravda suschestvuet.  Gorilla zhivet v samoy chasche neprohodimyh dzhungley, gde pomimo nego, spryatannye ot vsego mira, obitayut mnogie sozdaniya iz doistoricheskih vremen. Issledovateli okazyvayutsya mezhdu dvuh ogney — s odnoy storony King Kong, a s drugoy — ego vragi dinozavry…",
+                "keywords_ru": "сценарий, шоу-бизнес, кинобизнес, экзотический остров, монстр, коренные жители, человеческие отношения с животными, корабль, великая депрессия, гигантское насекомое, римейк, динозавр, нью-йорк, сша, кайдзю, доисторическое существо, Эмпайр Стейт Билдинг, гигантская обезьяна, женщина в опасности, 30-е годы, гигантская горилла,",
+                "keywords_en": "screenplay,show business,movie business,exotic island,monster,indigenous,human animal relationship,ship,great depression,giant insect,remake,dinosaur,new york city, usa,kaiju,prehistoric creature,empire state building,giant ape,woman in peril,1930s,giant gorilla,",
+                "datetime_create": "2010-12-20T23:00:00+03:00",
+                "datetime_modify": "2020-06-26T16:33:56+03:00",
+                "votes": 114454,
+                "popularity": 0,
+                "backdrop_available": false,
+                "movie_url": null,
+                "trailer_url": null,
+                "packages_tvh": ["est_hd_249rub", "est_sd_199rub", "tvod_hd_149rub", "tvod_sd_99rub"],
+                "downloadable": ["est", "tvod"],
+                "master_objs": [{
+                        "id": 871123,
+                        "type": "main",
+                        "size": 34974044574,
+                        "mime": "video\/mp4",
+                        "location": "stream",
+                        "path": "\/srv\/storage0\/mf\/K\/King_Kong.5593113\/King_Kong_0.mp4",
+                        "url": null,
+                        "name": null,
+                        "description": null,
+                        "lang": null,
+                        "duration": 11237,
+                        "width": 1920,
+                        "height": 1080,
+                        "bitrate": 24899257,
+                        "content_resolution": null,
+                        "fps": 23,
+                        "is_hdr": null,
+                        "audio_type": "Stereo",
+                        "skipping_fragments": [],
+                        "is_preview": false,
+                        "preview_duration": null,
+                        "preview_start_time": null,
+                        "duration_text": "3 часа 7 минут",
+                        "format": "HD",
+                        "subtitles": []
+                    }
+                ],
+                "trailer_array": [],
+                "is_presale": false,
+                "datetime_publication": "2020-02-20T16:06:58+03:00",
+                "rightholder_content_id": null,
+                "playback_id": null,
+                "sound_tracks_description": [],
+                "external_ids": [{
+                        "source_id": 30,
+                        "value": "5908"
+                    }, {
+                        "source_id": 31,
+                        "value": "tt0360717"
+                    }, {
+                        "source_id": 32,
+                        "value": "254"
+                    }
+                ],
+                "movie_drm": null,
+                "price": {},
+                "trailer_available": false,
+                "file_data": {},
+                "year": "2005",
+                "countries": [{
+                        "name": "Новая Зеландия"
+                    }, {
+                        "name": "США"
+                    }, {
+                        "name": "Германия"
+                    }
+                ],
+                "genres": [{
+                        "genre_id": 40,
+                        "title": "Боевики",
+                        "type": null
+                    }, {
+                        "genre_id": 41,
+                        "title": "Драмы",
+                        "type": null
+                    }, {
+                        "genre_id": 46,
+                        "title": "Мелодрамы",
+                        "type": null
+                    }, {
+                        "genre_id": 50,
+                        "title": "Приключения",
+                        "type": null
+                    }, {
+                        "genre_id": 60,
+                        "title": "Фэнтези",
+                        "type": null
+                    }
+                ],
+                "actors": [{
+                        "id": 100064,
+                        "name": "Джейми Белл",
+                        "name_en": "Jamie Bell"
+                    }, {
+                        "id": 3877,
+                        "name": "Джек Блэк",
+                        "name_en": "Jack Black"
+                    }, {
+                        "id": 115980,
+                        "name": "Кайл Чандлер",
+                        "name_en": null
+                    }, {
+                        "id": 3961,
+                        "name": "Колин Хэнкс",
+                        "name_en": "Colin Hanks"
+                    }, {
+                        "id": 102704,
+                        "name": "Лобо Чан",
+                        "name_en": "Lobo Chan"
+                    }, {
+                        "id": 1425,
+                        "name": "Наоми Уоттс",
+                        "name_en": "Naomi Watts"
+                    }, {
+                        "id": 116940,
+                        "name": "Томас Кречман",
+                        "name_en": null
+                    }, {
+                        "id": 102703,
+                        "name": "Эван Парк",
+                        "name_en": null
+                    }, {
+                        "id": 6611,
+                        "name": "Эдриан Броуди",
+                        "name_en": "Adrien Brody"
+                    }, {
+                        "id": 102702,
+                        "name": "Энди Серкис",
+                        "name_en": null
+                    }
+                ],
+                "directors": [{
+                        "id": 2346,
+                        "name": "Питер Джексон",
+                        "name_en": "Peter Jackson"
+                    }
+                ],
+                "in_subscriptions": []
+            }, {
+                "content_type": "movie",
+                "content_id": 5595444,
+                "primary_genres": [49],
+                "studios": [365, 340],
+                "is_russian": false,
+                "publication_unixtime": 1290459600,
+                "mpaa_rating": "PG-17",
+                "age_rating": 12,
+                "tagline": "",
+                "release_date": "2007-06-15",
+                "rightholder_name": [{
+                        "lang": "rus",
+                        "text": "Universal"
+                    }
+                ],
+                "is_perfect": true,
+                "tvod_rights_start_date": "2020-03-01T00:00:01+03:00",
+                "tvod_rights_expiration_date": "2021-02-28T23:59:59+03:00",
+                "svod_rights_start_date": null,
+                "svod_rights_expiration_date": null,
+                "est_rights_start_date": "2020-03-01T00:00:01+03:00",
+                "est_rights_expiration_date": "2021-02-28T23:59:59+03:00",
+                "fvod_rights_start_date": null,
+                "fvod_rights_expiration_date": null,
+                "rating": 6.85,
+                "description": "Тысячи людей спешат увидеть Мир Юрского периода, но безопасное на первый взгляд развлечение может обернуться угрозой для жизни.",
+                "image_objs": [{
+                        "type": "vposter",
+                        "mime": "image\/jpeg",
+                        "lang": null,
+                        "width": 600,
+                        "height": 840,
+                        "url": "http:\/\/media.omlet.ru\/media\/img\/movies\/vposter\/plain\/5595444\/600_840.jpg"
+                    }, {
+                        "type": "hposter",
+                        "mime": null,
+                        "lang": null,
+                        "width": null,
+                        "height": null,
+                        "url": "http:\/\/media.omlet.ru\/\/media\/img\/movies\/hposter\/plain\/5595444\/1920_1080.jpg"
+                    }
+                ],
+                "priority": 3,
+                "post_message": {
+                    "title": null,
+                    "body": null,
+                    "button_text": null,
+                    "button_link": null,
+                    "promoted_content": null
+                },
+                "is_promotion": true,
+                "is_novelty": false,
+                "is_soon": false,
+                "has_nfc": false,
+                "source_id": 1,
+                "cdn_type": null,
+                "in_cdn": false,
+                "presale_target_date": null,
+                "presale_start_date": null,
+                "title_en": "JURASSIC WORLD",
+                "title_ru": "Мир Юрского периода",
+                "duration": 7463,
+                "duration_text": "2 часа 4 минуты",
+                "tvod_window": 30,
+                "content_category": "library",
+                "description_en": "Executive produced by Steven Spielberg, this long-awaited sequel to \"Jurassic Park\" takes place 22 years after the events of the first film in the groundbreaking blockbuster series. Despite the terrifying mishaps that befell the original park, an even bigger park now stands in its place, offering thousands of guests the chance to marvel at living dinosaurs. Jurassic World's latest attraction is Indominus rex, a genetically-modified monstrosity with untold levels of intelligence and ferocity. When Indominus rex attempts to escape, every human and dinosaur in the park becomes its prey. Directed by Colin Trevorrow, \"Jurassic World\" stars Chris Pratt and Bryce Dallas Howard. Frank Marshall and Patrick Crowley join the team as producers.",
+                "keywords_ru": "монстр, днк, тиранозавр рекс, велоцираптор, остров, нападение животных, продолжение, катастрофа, побег, динозавр, парк развлечений, тематический парк, парк юрского периода, 3d, ужас животных,",
+                "keywords_en": "monster,dna,tyrannosaurus rex,velociraptor,island,animal attack,sequel,disaster,escape,dinosaur,amusement park,theme park,jurassic park,3d,animal horror,",
+                "datetime_create": "2010-11-22T23:00:00+03:00",
+                "datetime_modify": "2020-06-26T16:33:56+03:00",
+                "votes": 150417,
+                "popularity": 0,
+                "backdrop_available": false,
+                "movie_url": null,
+                "trailer_url": null,
+                "packages_tvh": ["est_hd_249rub", "est_sd_199rub", "tvod_hd_149rub", "tvod_sd_99rub"],
+                "downloadable": ["est", "tvod"],
+                "master_objs": [{
+                        "id": 871151,
+                        "type": "main",
+                        "size": 23031922039,
+                        "mime": "video\/mp4",
+                        "location": "stream",
+                        "path": "\/srv\/storage0\/mf\/M\/Mir_Yurskogo_perioda.5595444\/Mir_Yurskogo_perioda_0.mp4",
+                        "url": null,
+                        "name": null,
+                        "description": null,
+                        "lang": null,
+                        "duration": 7463,
+                        "width": 1920,
+                        "height": 1080,
+                        "bitrate": 24688777,
+                        "content_resolution": null,
+                        "fps": 23,
+                        "is_hdr": null,
+                        "audio_type": "Stereo",
+                        "skipping_fragments": [],
+                        "is_preview": false,
+                        "preview_duration": null,
+                        "preview_start_time": null,
+                        "duration_text": "2 часа 4 минуты",
+                        "format": "HD",
+                        "subtitles": []
+                    }
+                ],
+                "trailer_array": [{
+                        "id": 872105,
+                        "type": "trailer",
+                        "size": 186451619,
+                        "mime": "video\/mp4",
+                        "location": "stream",
+                        "path": "\/srv\/storage0\/mf\/M\/Mir_Yurskogo_perioda.5595444\/trailer.0\/Mir_Yurskogo_perioda_trailer_0.mp4",
+                        "url": null,
+                        "name": null,
+                        "description": null,
+                        "lang": null,
+                        "duration": 145,
+                        "width": 1920,
+                        "height": 1080,
+                        "bitrate": 10312230,
+                        "content_resolution": null,
+                        "fps": 23,
+                        "is_hdr": null,
+                        "audio_type": "Stereo",
+                        "screenshot_time": null,
+                        "duration_text": "2 минуты",
+                        "format": "HD"
+                    }
+                ],
+                "is_presale": false,
+                "datetime_publication": "2020-02-20T16:06:58+03:00",
+                "rightholder_content_id": null,
+                "playback_id": null,
+                "sound_tracks_description": [],
+                "external_ids": [{
+                        "source_id": 30,
+                        "value": "594554"
+                    }, {
+                        "source_id": 31,
+                        "value": "tt0369610"
+                    }, {
+                        "source_id": 32,
+                        "value": "135397"
+                    }
+                ],
+                "movie_drm": null,
+                "price": {},
+                "trailer_available": false,
+                "file_data": {},
+                "year": "2015",
+                "countries": [{
+                        "name": "США"
+                    }
+                ],
+                "genres": [{
+                        "genre_id": 40,
+                        "title": "Боевики",
+                        "type": null
+                    }, {
+                        "genre_id": 50,
+                        "title": "Приключения",
+                        "type": null
+                    }, {
+                        "genre_id": 49,
+                        "title": "Фантастика",
+                        "type": null
+                    }
+                ],
+                "actors": [{
+                        "id": 4466,
+                        "name": "Джули Эндрюс",
+                        "name_en": "Julie Andrews"
+                    }, {
+                        "id": 103497,
+                        "name": "Б.Д. Вонг",
+                        "name_en": null
+                    }, {
+                        "id": 6601,
+                        "name": "Брайс Даллас Ховард",
+                        "name_en": "Bryce Dallas Howard"
+                    }, {
+                        "id": 104175,
+                        "name": "Винсент Д’Онофрио",
+                        "name_en": null
+                    }, {
+                        "id": 116593,
+                        "name": "Джейк Джонсон",
+                        "name_en": null
+                    }, {
+                        "id": 314,
+                        "name": "Джимми Фэллон",
+                        "name_en": "Jimmy Fallon"
+                    }, {
+                        "id": 4156,
+                        "name": "Джуди Грир",
+                        "name_en": "Judy Greer"
+                    }, {
+                        "id": 115978,
+                        "name": "Ирфан Кхан",
+                        "name_en": null
+                    }, {
+                        "id": 356991,
+                        "name": "Колин Треворроу",
+                        "name_en": "Colin Trevorrow"
+                    }, {
+                        "id": 122333,
+                        "name": "Крис Пратт",
+                        "name_en": null
+                    }, {
+                        "id": 356990,
+                        "name": "Ник Робинсон",
+                        "name_en": null
+                    }, {
+                        "id": 125362,
+                        "name": "Ольга Калашникова",
+                        "name_en": "Olga Kalashnikova"
+                    }, {
+                        "id": 2039,
+                        "name": "Омар Сай",
+                        "name_en": "Omar Sy"
+                    }, {
+                        "id": 119348,
+                        "name": "Омар Си",
+                        "name_en": null
+                    }, {
+                        "id": 102283,
+                        "name": "Тай Симпкинс",
+                        "name_en": null
+                    }, {
+                        "id": 1194,
+                        "name": "Ти Кигэн Симпкинс",
+                        "name_en": "Ty Simpkins"
+                    }, {
+                        "id": 2976,
+                        "name": "Эрик Эдельштейн",
+                        "name_en": "Eric Edelstein"
+                    }
+                ],
+                "directors": [{
+                        "id": 356991,
+                        "name": "Колин Треворроу",
+                        "name_en": "Colin Trevorrow"
+                    }
+                ],
+                "in_subscriptions": []
+            }, {
+                "content_type": "movie",
+                "content_id": 5595447,
+                "primary_genres": [40],
+                "studios": [365, 662, 220],
+                "is_russian": false,
+                "publication_unixtime": 1290459600,
+                "mpaa_rating": "PG-13",
+                "age_rating": 12,
+                "tagline": "",
+                "release_date": "2006-06-15",
+                "rightholder_name": [{
+                        "lang": "rus",
+                        "text": "Universal"
+                    }
+                ],
+                "is_perfect": true,
+                "tvod_rights_start_date": "2020-03-01T00:00:01+03:00",
+                "tvod_rights_expiration_date": "2021-02-28T23:59:59+03:00",
+                "svod_rights_start_date": null,
+                "svod_rights_expiration_date": null,
+                "est_rights_start_date": "2020-03-01T00:00:01+03:00",
+                "est_rights_expiration_date": "2021-02-28T23:59:59+03:00",
+                "fvod_rights_start_date": null,
+                "fvod_rights_expiration_date": null,
+                "rating": 6.82,
+                "description": "Шон Босуэлл — одинокий парень, который хочет казаться профи уличных гонок. Он бесшабашно гоняется по улицам города, пытаясь убежать от жизненных невзгод и наживая себе врагов среди местных властей. Когда Шону грозит тюрьма, его от греха подальше отсылают к отцу — профессиональному военному, который служит на военной базе в Японии.В незнакомой стране, живущей по своим законам, Шон чувствует себя еще большим изгоем. Однако вскоре его американский приятель Твинки знакомит его с миром подпольного дрифт-рейсинга. Раньше Шон просто тупо гонялся по улицам, а здесь перед ним открылся целый мир своеобразного искусства из металла и резины, дороги которого оказались невообразимо круты на поворотах…",
+                "image_objs": [{
+                        "type": "vposter",
+                        "mime": "image\/jpeg",
+                        "lang": null,
+                        "width": 600,
+                        "height": 840,
+                        "url": "http:\/\/media.omlet.ru\/media\/img\/movies\/vposter\/plain\/5595447\/600_840.jpg"
+                    }, {
+                        "type": "hposter",
+                        "mime": "image\/jpeg",
+                        "lang": null,
+                        "width": 1920,
+                        "height": 1080,
+                        "url": "http:\/\/media.omlet.ru\/media\/img\/movies\/hposter\/plain\/5595447\/1920_1080.jpg"
+                    }
+                ],
+                "priority": 3,
+                "post_message": {
+                    "title": null,
+                    "body": null,
+                    "button_text": null,
+                    "button_link": null,
+                    "promoted_content": null
+                },
+                "is_promotion": true,
+                "is_novelty": false,
+                "is_soon": false,
+                "has_nfc": false,
+                "source_id": 1,
+                "cdn_type": null,
+                "in_cdn": false,
+                "presale_target_date": null,
+                "presale_start_date": null,
+                "title_en": "FAST AND THE FURIOUS: TOKYO DRIFT, THE",
+                "title_ru": "Тройной форсаж: Токийский дрифт",
+                "duration": 6247,
+                "duration_text": "1 час 44 минуты",
+                "tvod_window": 30,
+                "content_category": "library",
+                "description_en": "Shaun Boswell is sent out of the country to live with his military father in Tokyo.  In the land that gave birth to the modified racers, the simple street race has been replaced by the gravity-defying drift racing.  In his first foray into the world of drift racing, Shaun unknowingly takes on the \"Drift King,\" with ties to the Yakuza, the Japanese crime machine.  The only way Shaun can pay off the debt from his loss is to venture into the deadly realm of the Tokyo underworld.",
+                "keywords_ru": "автомобильная гонка, автомобильное путешествие, автомеханик, автомобильный гараж, автотюнинг, уличная гонка, дрифтинг, машина, токио,",
+                "keywords_en": "car race,car journey,car mechanic,car garage,auto-tuning,street race,drifting,car,tokyo,",
+                "datetime_create": "2010-11-22T23:00:00+03:00",
+                "datetime_modify": "2020-06-26T16:33:56+03:00",
+                "votes": 90951,
+                "popularity": 0,
+                "backdrop_available": false,
+                "movie_url": null,
+                "trailer_url": null,
+                "packages_tvh": ["est_hd_249rub", "est_sd_199rub", "tvod_hd_149rub", "tvod_sd_99rub"],
+                "downloadable": ["est", "tvod"],
+                "master_objs": [{
+                        "id": 871739,
+                        "type": "main",
+                        "size": 19245453318,
+                        "mime": "video\/mp4",
+                        "location": "stream",
+                        "path": "\/srv\/storage0\/mf\/T\/Trojnoj_forsazh__Tokijskij_drift.5595447\/Trojnoj_forsazh__Tokijskij_drift_0.mp4",
+                        "url": null,
+                        "name": null,
+                        "description": null,
+                        "lang": null,
+                        "duration": 6247,
+                        "width": 1920,
+                        "height": 1080,
+                        "bitrate": 24644401,
+                        "content_resolution": null,
+                        "fps": 23,
+                        "is_hdr": null,
+                        "audio_type": "Stereo",
+                        "skipping_fragments": [],
+                        "is_preview": false,
+                        "preview_duration": null,
+                        "preview_start_time": null,
+                        "duration_text": "1 час 44 минуты",
+                        "format": "HD",
+                        "subtitles": []
+                    }
+                ],
+                "trailer_array": [],
+                "is_presale": false,
+                "datetime_publication": "2020-03-02T14:00:26+03:00",
+                "rightholder_content_id": null,
+                "playback_id": null,
+                "sound_tracks_description": [],
+                "external_ids": [{
+                        "source_id": 30,
+                        "value": "106079"
+                    }, {
+                        "source_id": 31,
+                        "value": "tt0463985"
+                    }, {
+                        "source_id": 32,
+                        "value": "9615"
+                    }
+                ],
+                "movie_drm": null,
+                "price": {},
+                "trailer_available": false,
+                "file_data": {},
+                "year": "2006",
+                "countries": [{
+                        "name": "США"
+                    }, {
+                        "name": "Германия"
+                    }, {
+                        "name": "Япония"
+                    }
+                ],
+                "genres": [{
+                        "genre_id": 40,
+                        "title": "Боевики",
+                        "type": null
+                    }, {
+                        "genre_id": 58,
+                        "title": "Криминал",
+                        "type": null
+                    }, {
+                        "genre_id": 43,
+                        "title": "Триллеры",
+                        "type": null
+                    }
+                ],
+                "actors": [{
+                        "id": 4085,
+                        "name": "Лукас Блэк",
+                        "name_en": "Lucas Black"
+                    }, {
+                        "id": 102858,
+                        "name": "Бау Вау",
+                        "name_en": null
+                    }, {
+                        "id": 128457,
+                        "name": "Сон Ган",
+                        "name_en": null
+                    }, {
+                        "id": 102859,
+                        "name": "Брайан Ти",
+                        "name_en": null
+                    }, {
+                        "id": 113031,
+                        "name": "Натали Келли",
+                        "name_en": null
+                    }, {
+                        "id": 111689,
+                        "name": "Брайан Гудман",
+                        "name_en": null
+                    }, {
+                        "id": 416559,
+                        "name": "Джейсон Дж. Тобин",
+                        "name_en": null
+                    }, {
+                        "id": 416560,
+                        "name": "Кэйко Китагава",
+                        "name_en": null
+                    }, {
+                        "id": 127302,
+                        "name": "Сонни Тиба",
+                        "name_en": null
+                    }, {
+                        "id": 416561,
+                        "name": "Леонардо Нам",
+                        "name_en": null
+                    }
+                ],
+                "directors": [{
+                        "id": 102867,
+                        "name": "Джастин Лин",
+                        "name_en": null
+                    }
+                ],
+                "in_subscriptions": []
+            }, {
+                "content_type": "movie",
+                "content_id": 7099025,
+                "primary_genres": [40],
+                "studios": [365, 220],
+                "is_russian": false,
+                "publication_unixtime": 1297803600,
+                "mpaa_rating": "PG-13",
+                "age_rating": 16,
+                "tagline": "",
+                "release_date": "2001-06-15",
+                "rightholder_name": [{
+                        "lang": "rus",
+                        "text": "Universal"
+                    }
+                ],
+                "is_perfect": true,
+                "tvod_rights_start_date": "2020-03-01T00:00:01+03:00",
+                "tvod_rights_expiration_date": "2021-02-28T23:59:59+03:00",
+                "svod_rights_start_date": null,
+                "svod_rights_expiration_date": null,
+                "est_rights_start_date": "2020-03-01T00:00:01+03:00",
+                "est_rights_expiration_date": "2021-02-28T23:59:59+03:00",
+                "fvod_rights_start_date": null,
+                "fvod_rights_expiration_date": null,
+                "rating": 7.73,
+                "description": "Его зовут Брайан, и он — фанатик турбин и нитроускорителей. Его цель — быть принятым в автобанду легендарного Доминика Торетто, чемпиона опасных и незаконных уличных гонок. Но это лишь часть правды… Брайан также полицейский, имеющий задание войти в доверие к Торетто, подозреваемому в причастности к дерзким грабежам трейлеров, совершенным прямо «с колес».Но чем больше доверяет нахальному новичку харизматичный Доминик, тем больше проникается герой идеалами «ангелов дорог». И тем меньше ему хочется выполнять свою миссию. И вот, наступает момент, когда Брайану придется выбирать между дружбой и долгом. И выбирать на скорости в 200 километров в час",
+                "image_objs": [{
+                        "type": "vposter",
+                        "mime": "image\/jpeg",
+                        "lang": null,
+                        "width": 600,
+                        "height": 840,
+                        "url": "http:\/\/media.omlet.ru\/media\/img\/movies\/vposter\/plain\/7099025\/600_840.jpg"
+                    }, {
+                        "type": "hposter",
+                        "mime": "image\/jpeg",
+                        "lang": null,
+                        "width": 1920,
+                        "height": 1080,
+                        "url": "http:\/\/media.omlet.ru\/media\/img\/movies\/hposter\/plain\/7099025\/1920_1080.jpg"
+                    }
+                ],
+                "priority": 3,
+                "post_message": {
+                    "title": null,
+                    "body": null,
+                    "button_text": null,
+                    "button_link": null,
+                    "promoted_content": null
+                },
+                "is_promotion": true,
+                "is_novelty": false,
+                "is_soon": false,
+                "has_nfc": false,
+                "source_id": 1,
+                "cdn_type": null,
+                "in_cdn": false,
+                "presale_target_date": null,
+                "presale_start_date": null,
+                "title_en": "FAST AND THE FURIOUS, THE",
+                "title_ru": "Форсаж",
+                "duration": 6415,
+                "duration_text": "1 час 46 минут",
+                "tvod_window": 30,
+                "content_category": "library",
+                "description_en": "This is it, the blockbuster hit that electrified summer audiences and raised the bar for action films!  Paul Walker stars as an undercover cop who infiltrates an illegal street-racing gang led by the charismatic Vin Diesel.  High-octane action and captivating car races fill this dazzling thrill-ride!",
+                "keywords_ru": "уличная банда, автомобильная гонка, тайная гонка, тюнинг, уличная гонка, Лос-Анджелес, Калифорния, автомобиль, сцена после титров, сцена во время титров",
+                "keywords_en": "street gang,car race,undercover,auto-tuning,street race,los angeles, california,car,aftercreditsstinger,duringcreditsstinger,",
+                "datetime_create": "2011-02-16T12:37:22+03:00",
+                "datetime_modify": "2020-06-26T16:33:56+03:00",
+                "votes": 148603,
+                "popularity": 0,
+                "backdrop_available": false,
+                "movie_url": null,
+                "trailer_url": null,
+                "packages_tvh": ["est_hd_249rub", "est_sd_199rub", "tvod_hd_149rub", "tvod_sd_99rub"],
+                "downloadable": ["est", "tvod"],
+                "master_objs": [{
+                        "id": 871791,
+                        "type": "main",
+                        "size": 20180015614,
+                        "mime": "video\/mp4",
+                        "location": "stream",
+                        "path": "\/srv\/storage0\/mf\/F\/Forsazh.7099025\/Forsazh_0.mp4",
+                        "url": null,
+                        "name": null,
+                        "description": null,
+                        "lang": null,
+                        "duration": 6415,
+                        "width": 1920,
+                        "height": 1080,
+                        "bitrate": 25167049,
+                        "content_resolution": null,
+                        "fps": 23,
+                        "is_hdr": null,
+                        "audio_type": "Stereo",
+                        "skipping_fragments": [],
+                        "is_preview": false,
+                        "preview_duration": null,
+                        "preview_start_time": null,
+                        "duration_text": "1 час 46 минут",
+                        "format": "HD",
+                        "subtitles": []
+                    }
+                ],
+                "trailer_array": [],
+                "is_presale": false,
+                "datetime_publication": "2020-03-10T17:06:33+03:00",
+                "rightholder_content_id": null,
+                "playback_id": null,
+                "sound_tracks_description": [],
+                "external_ids": [{
+                        "source_id": 30,
+                        "value": "666"
+                    }, {
+                        "source_id": 31,
+                        "value": "tt0232500"
+                    }, {
+                        "source_id": 32,
+                        "value": "9799"
+                    }
+                ],
+                "movie_drm": null,
+                "price": {},
+                "trailer_available": false,
+                "file_data": {},
+                "year": "2001",
+                "countries": [{
+                        "name": "США"
+                    }, {
+                        "name": "Германия"
+                    }
+                ],
+                "genres": [{
+                        "genre_id": 40,
+                        "title": "Боевики",
+                        "type": null
+                    }, {
+                        "genre_id": 58,
+                        "title": "Криминал",
+                        "type": null
+                    }, {
+                        "genre_id": 43,
+                        "title": "Триллеры",
+                        "type": null
+                    }
+                ],
+                "actors": [{
+                        "id": 551,
+                        "name": "Пол Уокер",
+                        "name_en": "Paul Walker"
+                    }, {
+                        "id": 5541,
+                        "name": "Вин Дизель",
+                        "name_en": "Vin Diesel"
+                    }, {
+                        "id": 104679,
+                        "name": "Мишель Родригес",
+                        "name_en": null
+                    }, {
+                        "id": 104680,
+                        "name": "Джордана Брюстер",
+                        "name_en": "Jordana Brewster"
+                    }, {
+                        "id": 103678,
+                        "name": "Мэтт Шульце",
+                        "name_en": null
+                    }, {
+                        "id": 104681,
+                        "name": "Рик Юн",
+                        "name_en": null
+                    }, {
+                        "id": 103370,
+                        "name": "Чэд Линдберг",
+                        "name_en": null
+                    }, {
+                        "id": 104682,
+                        "name": "Джонни Стронг",
+                        "name_en": null
+                    }, {
+                        "id": 102732,
+                        "name": "Тед Левайн",
+                        "name_en": null
+                    }, {
+                        "id": 102721,
+                        "name": "Том Бэрри",
+                        "name_en": "Thom Barry"
+                    }
+                ],
+                "directors": [{
+                        "id": 104640,
+                        "name": "Роб Коэн",
+                        "name_en": null
+                    }
+                ],
+                "in_subscriptions": []
+            }, {
+                "content_type": "movie",
+                "content_id": 8485454,
+                "primary_genres": [49],
+                "studios": [365, 662],
+                "is_russian": false,
+                "publication_unixtime": 1300914000,
+                "mpaa_rating": "PG-13",
+                "age_rating": 12,
+                "tagline": "",
+                "release_date": "2008-06-15",
+                "rightholder_name": [{
+                        "lang": "rus",
+                        "text": "Universal"
+                    }
+                ],
+                "is_perfect": true,
+                "tvod_rights_start_date": "2020-03-01T00:00:01+03:00",
+                "tvod_rights_expiration_date": "2021-02-28T23:59:59+03:00",
+                "svod_rights_start_date": null,
+                "svod_rights_expiration_date": null,
+                "est_rights_start_date": "2020-03-01T00:00:01+03:00",
+                "est_rights_expiration_date": "2021-02-28T23:59:59+03:00",
+                "fvod_rights_start_date": null,
+                "fvod_rights_expiration_date": null,
+                "rating": 6.15,
+                "description": "Заколдованный волшебницей, безжалостный китайский император-дракон должен провести вечность в забвении. Его 10 000 воинов превратились в терракотовых воинов. Однако когда искатель приключений Алекс О`Коннелл случайно пробуждает властителя от вечной спячки, он вынужден искать помощи у единственных людей, которые знают, как справиться с воскресшими мертвецами: у своих родителей.Монарх возвращается к жизни, и наши герои понимают, что его сила за эту тысячу лет только увеличилась. Мумия готова поднять всю Азию в борьбе за мировое господство… если О`Коннеллы ее не остановят.",
+                "image_objs": [{
+                        "type": "vposter",
+                        "mime": "image\/jpeg",
+                        "lang": null,
+                        "width": 600,
+                        "height": 840,
+                        "url": "http:\/\/media.omlet.ru\/media\/img\/movies\/vposter\/plain\/8485454\/600_840.jpg"
+                    }, {
+                        "type": "hposter",
+                        "mime": null,
+                        "lang": null,
+                        "width": null,
+                        "height": null,
+                        "url": "http:\/\/media.omlet.ru\/\/media\/img\/movies\/hposter\/plain\/8485454\/1920_1080.jpg"
+                    }
+                ],
+                "priority": 3,
+                "post_message": {
+                    "title": null,
+                    "body": null,
+                    "button_text": null,
+                    "button_link": null,
+                    "promoted_content": null
+                },
+                "is_promotion": true,
+                "is_novelty": false,
+                "is_soon": false,
+                "has_nfc": false,
+                "source_id": 1,
+                "cdn_type": null,
+                "in_cdn": false,
+                "presale_target_date": null,
+                "presale_start_date": null,
+                "title_en": "MUMMY: TOMB OF THE DRAGON EMPEROR, THE",
+                "title_ru": "Мумия: Гробница Императора Драконов",
+                "duration": 6703,
+                "duration_text": "1 час 51 минута",
+                "tvod_window": 30,
+                "content_category": "library",
+                "description_en": "The blockbuster global Mummy franchise takes a spellbinding turn as the action shifts to Asia for the next chapter in the adventure series, The Mummy: Tomb of the Dragon Emperor.  Brendan Fraser returns as explorer Rick O'Connell to combat the resurrected Han Emperor (Superstar Jet Li) in an epic journey that races from the catacombs of ancient China high into the frigid Himalayas. Golden Globe-nominee Maria Bello and Michelle Yeoh join the cast as well as newcomer Luke Ford. In this exciting installment, the trademark thrills and visually spectacular action of the Mummy series are redefined for a new generation!",
+                "keywords_ru": "Китай, меч, пирамида, мумия, йети, китайский император, гробница, египетский,",
+                "keywords_en": "china,sword,pyramid,mummy,yeti,chinese emperor,tomb,egyptian,",
+                "datetime_create": "2011-03-24T17:32:18+03:00",
+                "datetime_modify": "2020-06-26T16:33:56+03:00",
+                "votes": 62296,
+                "popularity": 0,
+                "backdrop_available": false,
+                "movie_url": null,
+                "trailer_url": null,
+                "packages_tvh": ["est_hd_249rub", "est_sd_199rub", "tvod_hd_149rub", "tvod_sd_99rub"],
+                "downloadable": ["est", "tvod"],
+                "master_objs": [{
+                        "id": 871153,
+                        "type": "main",
+                        "size": 20498448173,
+                        "mime": "video\/mp4",
+                        "location": "stream",
+                        "path": "\/srv\/storage0\/mf\/M\/Mumiya__Grobnitsa_Imperatora_Drakonov.8485454\/Mumiya__Grobnitsa_Imperatora_Drakonov_0.mp4",
+                        "url": null,
+                        "name": null,
+                        "description": null,
+                        "lang": null,
+                        "duration": 6703,
+                        "width": 1920,
+                        "height": 1080,
+                        "bitrate": 24463323,
+                        "content_resolution": null,
+                        "fps": 23,
+                        "is_hdr": null,
+                        "audio_type": "Stereo",
+                        "skipping_fragments": [],
+                        "is_preview": false,
+                        "preview_duration": null,
+                        "preview_start_time": null,
+                        "duration_text": "1 час 51 минута",
+                        "format": "HD",
+                        "subtitles": []
+                    }
+                ],
+                "trailer_array": [{
+                        "id": 872146,
+                        "type": "trailer",
+                        "size": 118301968,
+                        "mime": "video\/mp4",
+                        "location": "stream",
+                        "path": "\/srv\/storage0\/mf\/M\/Mumiya__Grobnitsa_Imperatora_Drakonov.8485454\/trailer.0\/Mumiya__Grobnitsa_Imperatora_Drakonov_trailer_0.mp4",
+                        "url": null,
+                        "name": null,
+                        "description": null,
+                        "lang": null,
+                        "duration": 97,
+                        "width": 1920,
+                        "height": 1080,
+                        "bitrate": 9720782,
+                        "content_resolution": null,
+                        "fps": 25,
+                        "is_hdr": null,
+                        "audio_type": "Stereo",
+                        "screenshot_time": null,
+                        "duration_text": "1 минута",
+                        "format": "HD"
+                    }
+                ],
+                "is_presale": false,
+                "datetime_publication": "2020-02-20T16:06:58+03:00",
+                "rightholder_content_id": null,
+                "playback_id": null,
+                "sound_tracks_description": [],
+                "external_ids": [{
+                        "source_id": 30,
+                        "value": "276638"
+                    }, {
+                        "source_id": 31,
+                        "value": "tt0859163"
+                    }, {
+                        "source_id": 32,
+                        "value": "1735"
+                    }
+                ],
+                "movie_drm": null,
+                "price": {},
+                "trailer_available": false,
+                "file_data": {},
+                "year": "2008",
+                "countries": [{
+                        "name": "США"
+                    }, {
+                        "name": "Германия"
+                    }, {
+                        "name": "Китай"
+                    }, {
+                        "name": "Канада"
+                    }
+                ],
+                "genres": [{
+                        "genre_id": 40,
+                        "title": "Боевики",
+                        "type": null
+                    }, {
+                        "genre_id": 43,
+                        "title": "Триллеры",
+                        "type": null
+                    }, {
+                        "genre_id": 44,
+                        "title": "Ужасы",
+                        "type": null
+                    }, {
+                        "genre_id": 60,
+                        "title": "Фэнтези",
+                        "type": null
+                    }
+                ],
+                "actors": [{
+                        "id": 103181,
+                        "name": "Брендан Фрейзер",
+                        "name_en": null
+                    }, {
+                        "id": 103509,
+                        "name": "Джет Ли",
+                        "name_en": "Jet Li"
+                    }, {
+                        "id": 347,
+                        "name": "Мария Белло",
+                        "name_en": "Maria Bello"
+                    }, {
+                        "id": 104511,
+                        "name": "Джон Ханна",
+                        "name_en": null
+                    }, {
+                        "id": 106540,
+                        "name": "Мишель Йео",
+                        "name_en": null
+                    }, {
+                        "id": 106541,
+                        "name": "Люк Форд",
+                        "name_en": null
+                    }, {
+                        "id": 105789,
+                        "name": "Изабелла Люн",
+                        "name_en": null
+                    }, {
+                        "id": 103992,
+                        "name": "Энтони Вон",
+                        "name_en": null
+                    }, {
+                        "id": 104181,
+                        "name": "Расселл Вонг",
+                        "name_en": null
+                    }, {
+                        "id": 3515,
+                        "name": "Лиам Каннингэм",
+                        "name_en": "Liam Cunningham"
+                    }
+                ],
+                "directors": [{
+                        "id": 104640,
+                        "name": "Роб Коэн",
+                        "name_en": null
+                    }
+                ],
+                "in_subscriptions": []
+            }, {
+                "content_type": "movie",
+                "content_id": 8486085,
+                "primary_genres": [40],
+                "studios": [365, 1261],
+                "is_russian": false,
+                "publication_unixtime": 1301000400,
+                "mpaa_rating": "PG-17",
+                "age_rating": 16,
+                "tagline": "",
+                "release_date": "2009-06-15",
+                "rightholder_name": [{
+                        "lang": "rus",
+                        "text": "Universal"
+                    }
+                ],
+                "is_perfect": true,
+                "tvod_rights_start_date": "2020-03-01T00:00:01+03:00",
+                "tvod_rights_expiration_date": "2021-02-28T23:59:59+03:00",
+                "svod_rights_start_date": null,
+                "svod_rights_expiration_date": null,
+                "est_rights_start_date": "2020-03-01T00:00:01+03:00",
+                "est_rights_expiration_date": "2021-02-28T23:59:59+03:00",
+                "fvod_rights_start_date": null,
+                "fvod_rights_expiration_date": null,
+                "rating": 7.89,
+                "description": "Вторая мировая война, в оккупированной немцами Франции группа американских солдат-евреев наводит страх на нацистов, жестоко убивая и скальпируя солдат.",
+                "image_objs": [{
+                        "type": "vposter",
+                        "mime": "image\/jpeg",
+                        "lang": null,
+                        "width": 600,
+                        "height": 840,
+                        "url": "http:\/\/media.omlet.ru\/media\/img\/movies\/vposter\/plain\/8486085\/600_840.jpg"
+                    }, {
+                        "type": "hposter",
+                        "mime": null,
+                        "lang": null,
+                        "width": null,
+                        "height": null,
+                        "url": "http:\/\/media.omlet.ru\/\/media\/img\/movies\/hposter\/plain\/8486085\/1920_1080.jpg"
+                    }
+                ],
+                "priority": 3,
+                "post_message": {
+                    "title": null,
+                    "body": null,
+                    "button_text": null,
+                    "button_link": null,
+                    "promoted_content": null
+                },
+                "is_promotion": true,
+                "is_novelty": false,
+                "is_soon": false,
+                "has_nfc": false,
+                "source_id": 1,
+                "cdn_type": null,
+                "in_cdn": false,
+                "presale_target_date": null,
+                "presale_start_date": null,
+                "title_en": "G.I. Bro",
+                "title_ru": "Бесславные ублюдки",
+                "duration": 9169,
+                "duration_text": "2 часа 32 минуты",
+                "tvod_window": 30,
+                "content_category": "library",
+                "description_en": "Vtoraya mirovaya voyna, v okkupirovannoy nemcami Francii gruppa amerikanskih soldat-evreev navodit strah na nacistov, zhestoko ubivaya i skal'piruya soldat.",
+                "keywords_ru": "Париж, Франция, партизан, кино, самопожертвование, динамит, мексиканское противостояние, Вторая мировая война, преследование евреев, евреи, нацисты, мазохизм, садизм, антисемитизм, свастика, немецкая оккупация Франции, насилие, британская политика, гитлер, Адольф Гитлер,",
+                "keywords_en": "paris, france,guerrilla,cinema,self sacrifice,dynamite,mexican standoff,world war ii,jew persecution,jew \/ jewish,nazi,masochism,sadism,anti semitism,swastika,german occupation of france,violence,british politics,hitler,adolf hitler,",
+                "datetime_create": "2011-03-25T16:21:09+03:00",
+                "datetime_modify": "2020-06-26T16:33:56+03:00",
+                "votes": 261281,
+                "popularity": 0,
+                "backdrop_available": false,
+                "movie_url": null,
+                "trailer_url": null,
+                "packages_tvh": ["est_hd_249rub", "est_sd_199rub", "tvod_hd_149rub", "tvod_sd_99rub"],
+                "downloadable": ["est", "tvod"],
+                "master_objs": [{
+                        "id": 871118,
+                        "type": "main",
+                        "size": 28208995544,
+                        "mime": "video\/mp4",
+                        "location": "stream",
+                        "path": "\/srv\/storage0\/mf\/B\/Besslavnye_ublyudki.8486085\/Besslavnye_ublyudki_0.mp4",
+                        "url": null,
+                        "name": null,
+                        "description": null,
+                        "lang": null,
+                        "duration": 9169,
+                        "width": 1920,
+                        "height": 1080,
+                        "bitrate": 24611504,
+                        "content_resolution": null,
+                        "fps": 23,
+                        "is_hdr": null,
+                        "audio_type": "Stereo",
+                        "skipping_fragments": [],
+                        "is_preview": false,
+                        "preview_duration": null,
+                        "preview_start_time": null,
+                        "duration_text": "2 часа 32 минуты",
+                        "format": "HD",
+                        "subtitles": []
+                    }
+                ],
+                "trailer_array": [{
+                        "id": 872087,
+                        "type": "trailer",
+                        "size": 162499903,
+                        "mime": "video\/mp4",
+                        "location": "stream",
+                        "path": "\/srv\/storage0\/mf\/B\/Besslavnye_ublyudki.8486085\/trailer.0\/Besslavnye_ublyudki_trailer_0.mp4",
+                        "url": null,
+                        "name": null,
+                        "description": null,
+                        "lang": null,
+                        "duration": 126,
+                        "width": 1920,
+                        "height": 1080,
+                        "bitrate": 10310577,
+                        "content_resolution": null,
+                        "fps": 24,
+                        "is_hdr": null,
+                        "audio_type": "Stereo",
+                        "screenshot_time": null,
+                        "duration_text": "2 минуты",
+                        "format": "HD"
+                    }
+                ],
+                "is_presale": false,
+                "datetime_publication": "2020-02-20T16:06:58+03:00",
+                "rightholder_content_id": null,
+                "playback_id": null,
+                "sound_tracks_description": [],
+                "external_ids": [{
+                        "source_id": 30,
+                        "value": "9691"
+                    }, {
+                        "source_id": 31,
+                        "value": "tt0361748"
+                    }, {
+                        "source_id": 32,
+                        "value": "16869"
+                    }
+                ],
+                "movie_drm": null,
+                "price": {},
+                "trailer_available": false,
+                "file_data": {},
+                "year": "2009",
+                "countries": [{
+                        "name": "Германия"
+                    }, {
+                        "name": "США"
+                    }
+                ],
+                "genres": [{
+                        "genre_id": 40,
+                        "title": "Боевики",
+                        "type": null
+                    }, {
+                        "genre_id": 47,
+                        "title": "Военное",
+                        "type": null
+                    }, {
+                        "genre_id": 41,
+                        "title": "Драмы",
+                        "type": null
+                    }, {
+                        "genre_id": 42,
+                        "title": "Комедии",
+                        "type": null
+                    }
+                ],
+                "actors": [{
+                        "id": 2288,
+                        "name": "Брэд Питт",
+                        "name_en": "Brad Pitt"
+                    }, {
+                        "id": 106554,
+                        "name": "Кристоф Вальц",
+                        "name_en": null
+                    }, {
+                        "id": 3063,
+                        "name": "Мелани Лоран",
+                        "name_en": "Melanie Laurent"
+                    }, {
+                        "id": 106555,
+                        "name": "Даниэль Брюль",
+                        "name_en": null
+                    }, {
+                        "id": 4571,
+                        "name": "Дайан Крюгер",
+                        "name_en": "Diane Kruger"
+                    }, {
+                        "id": 102600,
+                        "name": "Майкл Фассбендер",
+                        "name_en": null
+                    }, {
+                        "id": 116739,
+                        "name": "Аугуст Диль",
+                        "name_en": null
+                    }, {
+                        "id": 105449,
+                        "name": "Элай Рот",
+                        "name_en": "Eli Roth"
+                    }, {
+                        "id": 1792,
+                        "name": "Тиль Швайгер",
+                        "name_en": "Til Schweiger"
+                    }, {
+                        "id": 106556,
+                        "name": "Гедеон Буркхард",
+                        "name_en": "Gedeon Burkhard"
+                    }, {
+                        "id": 112593,
+                        "name": "Джули Дрейфус",
+                        "name_en": "Julie Dreyfus"
+                    }, {
+                        "id": 337198,
+                        "name": "Кен Дукен",
+                        "name_en": "Ken Duken"
+                    }, {
+                        "id": 100090,
+                        "name": "Кристиан Беркель",
+                        "name_en": "Christian Berkel"
+                    }, {
+                        "id": 114890,
+                        "name": "Бо Свенсон",
+                        "name_en": "Bo Svenson"
+                    }, {
+                        "id": 579,
+                        "name": "Сэмюэл Л. Джексон",
+                        "name_en": "Samuel L. Jackson"
+                    }
+                ],
+                "directors": [{
+                        "id": 106558,
+                        "name": "Квентин Тарантино",
+                        "name_en": null
+                    }
+                ],
+                "in_subscriptions": []
+            }, {
+                "content_type": "movie",
+                "content_id": 9328696,
+                "primary_genres": [40],
+                "studios": [365, 662],
+                "is_russian": false,
+                "publication_unixtime": 1302120000,
+                "mpaa_rating": "PG-13",
+                "age_rating": 16,
+                "tagline": "",
+                "release_date": "2009-06-15",
+                "rightholder_name": [{
+                        "lang": "rus",
+                        "text": "Universal"
+                    }
+                ],
+                "is_perfect": true,
+                "tvod_rights_start_date": "2020-03-01T00:00:01+03:00",
+                "tvod_rights_expiration_date": "2021-02-28T23:59:59+03:00",
+                "svod_rights_start_date": null,
+                "svod_rights_expiration_date": null,
+                "est_rights_start_date": "2020-03-01T00:00:01+03:00",
+                "est_rights_expiration_date": "2021-02-28T23:59:59+03:00",
+                "fvod_rights_start_date": null,
+                "fvod_rights_expiration_date": null,
+                "rating": 6.95,
+                "description": "Когда кривая дорожка заставляет скрывающегося от правосудия Дома Торетто вернуться в Лос-Анджелес, вражда с агентом Брайаном О’Коннером вспыхивает с новой силой. Но у парочки обнаруживается общий противник, и Дому с Брайаном приходится заключить перемирие в надежде одержать над ним победу. Грабя конвои, роя подкопы и пересекая границы, они приходят к идеальной форме отмщения — педали газа, вдавленной до упора.",
+                "image_objs": [{
+                        "type": "vposter",
+                        "mime": "image\/jpeg",
+                        "lang": null,
+                        "width": 600,
+                        "height": 840,
+                        "url": "http:\/\/media.omlet.ru\/media\/img\/movies\/vposter\/plain\/9328696\/600_840.jpg"
+                    }, {
+                        "type": "hposter",
+                        "mime": "image\/jpeg",
+                        "lang": null,
+                        "width": 1920,
+                        "height": 1080,
+                        "url": "http:\/\/media.omlet.ru\/media\/img\/movies\/hposter\/plain\/9328696\/1920_1080.jpg"
+                    }
+                ],
+                "priority": 3,
+                "post_message": {
+                    "title": null,
+                    "body": null,
+                    "button_text": null,
+                    "button_link": null,
+                    "promoted_content": null
+                },
+                "is_promotion": true,
+                "is_novelty": false,
+                "is_soon": false,
+                "has_nfc": false,
+                "source_id": 1,
+                "cdn_type": null,
+                "in_cdn": false,
+                "presale_target_date": null,
+                "presale_start_date": null,
+                "title_en": "FAST & FURIOUS",
+                "title_ru": "Форсаж 4",
+                "duration": 6411,
+                "duration_text": "1 час 46 минут",
+                "tvod_window": 30,
+                "content_category": "library",
+                "description_en": "Vin Diesel and Paul Walker reteam for the ultimate chapter of the franchise built on speed -- Fast and Furious.  Heading back to the streets where it all began, they rejoin Michelle Rodriguez and Jordana Brewster to blast muscle, tuner and exotic cars across Los Angeles and floor through the Mexican desert in this high-octane action-thriller. Directed by Justin Lin.",
+                "keywords_ru": "отношения между братьями и сестрами, азартные игры, автомобильные гонки, экс-любовник, быстрый, полицейский, уличные гонки, автокатастрофа,",
+                "keywords_en": "sibling relationship,gambling,car race,ex-lover,fast,cop,street race,car crash,2010 - fast & furious,",
+                "datetime_create": "2011-04-06T14:37:28+04:00",
+                "datetime_modify": "2020-06-26T16:33:56+03:00",
+                "votes": 106516,
+                "popularity": 0,
+                "backdrop_available": false,
+                "movie_url": null,
+                "trailer_url": null,
+                "packages_tvh": ["est_hd_249rub", "est_sd_199rub", "tvod_hd_149rub", "tvod_sd_99rub"],
+                "downloadable": ["est", "tvod"],
+                "master_objs": [{
+                        "id": 871678,
+                        "type": "main",
+                        "size": 20000968534,
+                        "mime": "video\/mp4",
+                        "location": "stream",
+                        "path": "\/srv\/storage0\/mf\/F\/Forsazh_4.9328696\/Forsazh_4_0.mp4",
+                        "url": null,
+                        "name": null,
+                        "description": null,
+                        "lang": null,
+                        "duration": 6411,
+                        "width": 1920,
+                        "height": 1080,
+                        "bitrate": 24959820,
+                        "content_resolution": null,
+                        "fps": 23,
+                        "is_hdr": null,
+                        "audio_type": "Stereo",
+                        "skipping_fragments": [],
+                        "is_preview": false,
+                        "preview_duration": null,
+                        "preview_start_time": null,
+                        "duration_text": "1 час 46 минут",
+                        "format": "HD",
+                        "subtitles": []
+                    }
+                ],
+                "trailer_array": [],
+                "is_presale": false,
+                "datetime_publication": "2020-03-02T14:00:26+03:00",
+                "rightholder_content_id": null,
+                "playback_id": null,
+                "sound_tracks_description": [],
+                "external_ids": [{
+                        "source_id": 30,
+                        "value": "395978"
+                    }, {
+                        "source_id": 31,
+                        "value": "tt1013752"
+                    }, {
+                        "source_id": 32,
+                        "value": "13804"
+                    }
+                ],
+                "movie_drm": null,
+                "price": {},
+                "trailer_available": false,
+                "file_data": {},
+                "year": "2009",
+                "countries": [{
+                        "name": "США"
+                    }, {
+                        "name": "Япония"
+                    }
+                ],
+                "genres": [{
+                        "genre_id": 40,
+                        "title": "Боевики",
+                        "type": null
+                    }, {
+                        "genre_id": 41,
+                        "title": "Драмы",
+                        "type": null
+                    }, {
+                        "genre_id": 58,
+                        "title": "Криминал",
+                        "type": null
+                    }, {
+                        "genre_id": 43,
+                        "title": "Триллеры",
+                        "type": null
+                    }
+                ],
+                "actors": [{
+                        "id": 5541,
+                        "name": "Вин Дизель",
+                        "name_en": "Vin Diesel"
+                    }, {
+                        "id": 551,
+                        "name": "Пол Уокер",
+                        "name_en": "Paul Walker"
+                    }, {
+                        "id": 104680,
+                        "name": "Джордана Брюстер",
+                        "name_en": "Jordana Brewster"
+                    }, {
+                        "id": 108247,
+                        "name": "Галь Гадот",
+                        "name_en": "Gal Gadot"
+                    }, {
+                        "id": 123356,
+                        "name": "Джон Ортис",
+                        "name_en": null
+                    }, {
+                        "id": 105388,
+                        "name": "Лас Алонсо",
+                        "name_en": null
+                    }, {
+                        "id": 104679,
+                        "name": "Мишель Родригес",
+                        "name_en": null
+                    }, {
+                        "id": 101688,
+                        "name": "Джек Конли",
+                        "name_en": "Jack Conley"
+                    }, {
+                        "id": 125339,
+                        "name": "Шей Уигэм",
+                        "name_en": null
+                    }, {
+                        "id": 102633,
+                        "name": "Лиза Лапира",
+                        "name_en": null
+                    }
+                ],
+                "directors": [{
+                        "id": 102867,
+                        "name": "Джастин Лин",
+                        "name_en": null
+                    }
+                ],
+                "in_subscriptions": []
+            }, {
+                "content_type": "movie",
+                "content_id": 12948336,
+                "primary_genres": [41],
+                "studios": [654, 852],
+                "is_russian": false,
+                "publication_unixtime": 1305576000,
+                "mpaa_rating": "PG-17",
+                "age_rating": 16,
+                "tagline": "",
+                "release_date": "1999-06-15",
+                "rightholder_name": [{
+                        "lang": "rus",
+                        "text": "Universal"
+                    }
+                ],
+                "is_perfect": true,
+                "tvod_rights_start_date": "2020-03-01T00:00:01+03:00",
+                "tvod_rights_expiration_date": "2021-02-28T23:59:59+03:00",
+                "svod_rights_start_date": null,
+                "svod_rights_expiration_date": null,
+                "est_rights_start_date": "2020-03-01T00:00:01+03:00",
+                "est_rights_expiration_date": "2021-02-28T23:59:59+03:00",
+                "fvod_rights_start_date": null,
+                "fvod_rights_expiration_date": null,
+                "rating": 9.06,
+                "description": "Пол Эджкомб — начальник блока смертников в тюрьме «Холодная гора», каждый из узников которого однажды проходит «зеленую милю» по пути к месту казни. Пол повидал много заключённых и надзирателей за время работы. Однако гигант Джон Коффи, обвинённый в страшном преступлении, стал одним из самых необычных обитателей блока.",
+                "image_objs": [{
+                        "type": "vposter",
+                        "mime": "image\/jpeg",
+                        "lang": null,
+                        "width": 600,
+                        "height": 840,
+                        "url": "http:\/\/media.omlet.ru\/media\/img\/movies\/vposter\/plain\/12948336\/600_840.jpg"
+                    }, {
+                        "type": "hposter",
+                        "mime": "image\/jpeg",
+                        "lang": null,
+                        "width": 1920,
+                        "height": 1080,
+                        "url": "http:\/\/media.omlet.ru\/media\/img\/movies\/hposter\/plain\/12948336\/1920_1080.jpg"
+                    }
+                ],
+                "priority": 3,
+                "post_message": {
+                    "title": null,
+                    "body": null,
+                    "button_text": null,
+                    "button_link": null,
+                    "promoted_content": null
+                },
+                "is_promotion": true,
+                "is_novelty": false,
+                "is_soon": false,
+                "has_nfc": false,
+                "source_id": 1,
+                "cdn_type": null,
+                "in_cdn": false,
+                "presale_target_date": null,
+                "presale_start_date": null,
+                "title_en": "GREEN MILE, THE",
+                "title_ru": "Зеленая миля",
+                "duration": 11326,
+                "duration_text": "3 часа 8 минут",
+                "tvod_window": 30,
+                "content_category": "library",
+                "description_en": "Academy Award-winner Tom Hanks stars in this moving fable based on a Stephen King novel about Death Row guards at a penitentiary in the 1930's who have a moral dilemma with their jobs when they discover one of their prisoners, a convicted murderer, has mystical healing powers. Beautifully directed by Frank Darabont, this haunting tale features an impressive supporting cast that includes Sam Rockwell, Bonnie Hunt, Patricia Clarkson and Michael Clark Duncan.",
+                "keywords_ru": "юг США, умственно отсталый, по роману или книге, смертный приговор, тюремный охранник, великая депрессия, сверхъестественное, тюремный охранник, тюрьма, электрический стул, магический реализм, исцеление, 1930-е годы,",
+                "keywords_en": "southern usa,mentally disabled,based on novel or book,death row,jail guard,great depression,supernatural,prison guard,jail,electric chair,magic realism,healing,1930s,",
+                "datetime_create": "2011-05-16T13:11:00+04:00",
+                "datetime_modify": "2020-06-26T16:33:56+03:00",
+                "votes": 575869,
+                "popularity": 0,
+                "backdrop_available": false,
+                "movie_url": null,
+                "trailer_url": null,
+                "packages_tvh": ["est_hd_249rub", "est_sd_199rub", "tvod_hd_149rub", "tvod_sd_99rub"],
+                "downloadable": ["est", "tvod"],
+                "master_objs": [{
+                        "id": 302637,
+                        "type": "main",
+                        "size": 34826455914,
+                        "mime": "video\/mp4",
+                        "location": "stream",
+                        "path": "\/srv\/storage0\/mf\/Z\/Zelenaya_milya.12948336\/Zelenaya_milya_0.mp4",
+                        "url": null,
+                        "name": null,
+                        "description": null,
+                        "lang": "rus",
+                        "duration": 11326,
+                        "width": 1920,
+                        "height": 1080,
+                        "bitrate": 24599791,
+                        "content_resolution": null,
+                        "fps": 23,
+                        "is_hdr": null,
+                        "audio_type": "Stereo",
+                        "skipping_fragments": [],
+                        "is_preview": false,
+                        "preview_duration": null,
+                        "preview_start_time": null,
+                        "duration_text": "3 часа 8 минут",
+                        "format": "HD",
+                        "subtitles": []
+                    }
+                ],
+                "trailer_array": [],
+                "is_presale": false,
+                "datetime_publication": "2020-03-02T14:00:26+03:00",
+                "rightholder_content_id": null,
+                "playback_id": null,
+                "sound_tracks_description": [],
+                "external_ids": [{
+                        "source_id": 30,
+                        "value": "435"
+                    }, {
+                        "source_id": 31,
+                        "value": "tt0120689"
+                    }, {
+                        "source_id": 32,
+                        "value": "497"
+                    }
+                ],
+                "movie_drm": null,
+                "price": {},
+                "trailer_available": false,
+                "file_data": {},
+                "year": "1999",
+                "countries": [{
+                        "name": "США"
+                    }
+                ],
+                "genres": [{
+                        "genre_id": 51,
+                        "title": "Детективы",
+                        "type": null
+                    }, {
+                        "genre_id": 41,
+                        "title": "Драмы",
+                        "type": null
+                    }, {
+                        "genre_id": 58,
+                        "title": "Криминал",
+                        "type": null
+                    }, {
+                        "genre_id": 49,
+                        "title": "Фантастика",
+                        "type": null
+                    }
+                ],
+                "actors": [{
+                        "id": 1549,
+                        "name": "Том Хэнкс",
+                        "name_en": "Tom Hanks"
+                    }, {
+                        "id": 3044,
+                        "name": "Дэвид Морс",
+                        "name_en": "David Morse"
+                    }, {
+                        "id": 1576,
+                        "name": "Бонни Хант",
+                        "name_en": "Bonnie Hunt"
+                    }, {
+                        "id": 2786,
+                        "name": "Майкл Кларк Дункан",
+                        "name_en": "Michael Clarke Duncan"
+                    }, {
+                        "id": 840,
+                        "name": "Джеймс Кромуэлл",
+                        "name_en": "James Cromwell"
+                    }, {
+                        "id": 107043,
+                        "name": "Майкл Джитер",
+                        "name_en": null
+                    }, {
+                        "id": 104012,
+                        "name": "Грэм Грин",
+                        "name_en": null
+                    }, {
+                        "id": 104176,
+                        "name": "Даг Хатчисон",
+                        "name_en": null
+                    }, {
+                        "id": 569,
+                        "name": "Сэм Рокуэлл",
+                        "name_en": "Sam Rockwell"
+                    }, {
+                        "id": 102232,
+                        "name": "Барри Пеппер",
+                        "name_en": null
+                    }
+                ],
+                "directors": [{
+                        "id": 107465,
+                        "name": "Фрэнк Дарабонт",
+                        "name_en": "Frank Darabont"
+                    }
+                ],
+                "in_subscriptions": []
+            }
+        ]
+    },
+    "warning": [],
+    "error": []
+}

@@ -1,0 +1,12 @@
+Traceback (most recent call last):
+  File "C:\Users\vlad.krivorotenko\Documents\jsonxmlcodec\codec.py", line 19, in __init__
+    self._value=json.load(input_data)
+  File "C:\Users\vlad.krivorotenko\AppData\Local\Continuum\anaconda3\lib\json\__init__.py", line 299, in load
+    parse_constant=parse_constant, object_pairs_hook=object_pairs_hook, **kw)
+  File "C:\Users\vlad.krivorotenko\AppData\Local\Continuum\anaconda3\lib\json\__init__.py", line 354, in loads
+    return _default_decoder.decode(s)
+  File "C:\Users\vlad.krivorotenko\AppData\Local\Continuum\anaconda3\lib\json\decoder.py", line 339, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "C:\Users\vlad.krivorotenko\AppData\Local\Continuum\anaconda3\lib\json\decoder.py", line 355, in raw_decode
+    obj, end = self.scan_once(s, idx)
+json.decoder.JSONDecodeError: Expecting ',' delimiter: line 6 column 1 (char 87)
